@@ -1,0 +1,32 @@
+{
+    "message": "Thành công",
+    "status": "OK",
+    "payload": {
+        "items": [
+            {
+                "lvskId": 1,
+                "lvskTen": "Văn hóa",
+                "lvskGhiChu": "",
+                "createdAt": "2022-08-10T06:16:50.110721Z",
+                "deletedAt": null,
+                "updatedAt": "2022-08-18T00:30:07.604Z"
+            },
+            {
+                "lvskId": 2,
+                "lvskTen": "Giáo dục",
+                "lvskGhiChu": "",
+                "createdAt": "2022-08-10T06:16:50.110721Z",
+                "deletedAt": null,
+                "updatedAt": "2022-08-18T00:27:12.505Z"
+            }
+        ],
+        "numberOfElements": 2,
+        "currentPage": 1,
+        "totalPages": 1,
+        "totalElements": 2,
+        "size": 20,
+        "first": true,
+        "last": true,
+        "empty": false
+    }
+}
