@@ -4,26 +4,19 @@
     "payload": {
         "items": [
             {
-                "lvskId": 1,
-                "lvskTen": "Văn hóa",
-                "lvskGhiChu": "",
-                "createdAt": "2022-08-10T06:16:50.110721Z",
-                "deletedAt": null,
-                "updatedAt": "2022-08-18T00:30:07.604Z"
-            },
-            {
-                "lvskId": 2,
-                "lvskTen": "Giáo dục",
-                "lvskGhiChu": "",
-                "createdAt": "2022-08-10T06:16:50.110721Z",
-                "deletedAt": null,
-                "updatedAt": "2022-08-18T00:27:12.505Z"
+                "lvId": 1,
+                "lvMa": "GDDT",
+                "lvTen": "Lĩnh vực Giáo dục",
+                "lvGhichu": "abc",
+                "createdAt": null,
+                "updatedAt": null,
+                "deletedAt": null
             }
         ],
-        "numberOfElements": 2,
+        "numberOfElements": 1,
         "currentPage": 1,
         "totalPages": 1,
-        "totalElements": 2,
+        "totalElements": 1,
         "size": 20,
         "first": true,
         "last": true,
