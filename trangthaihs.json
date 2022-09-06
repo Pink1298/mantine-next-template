@@ -1,0 +1,24 @@
+{
+    "message": "Thành công",
+    "status": "OK",
+    "payload": {
+        "items": [
+            {
+                "ttHsId": 1,
+                "ttHsTen": "abc",
+                "ttHsGhichu": "1234444",
+                "createdAt": null,
+                "updatedAt": null,
+                "deletedAt": null
+            }
+        ],
+        "numberOfElements": 1,
+        "currentPage": 1,
+        "totalPages": 1,
+        "totalElements": 1,
+        "size": 20,
+        "first": true,
+        "last": true,
+        "empty": false
+    }
+}
